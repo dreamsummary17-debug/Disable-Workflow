@@ -9,5 +9,5 @@ on:
         runs-on: ubuntu-latest
 
         steps:
-          - name: Neeraj Vishwakarma
+          - name: Neeraj 
             run: echo "Disable Workflow Video DevOps"
